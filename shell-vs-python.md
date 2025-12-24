@@ -2,7 +2,7 @@ Certainly! The choice between using shell scripting and Python in DevOps depends
 
 **Use Shell Scripting When:**
 
-1.**System Administration Tasks**: Shell scripting is excellent for automating routine system administration tasks like managing files, directories, and processes. You can use shell scripts for tasks like starting/stopping services, managing users, and basic file manipulation.
+  1.**System Administration Tasks**: Shell scripting is excellent for automating routine system administration tasks like managing files, directories, and processes. You can use shell scripts for tasks like starting/stopping services, managing users, and basic file manipulation.
 
 2.**Command Line Interactions**: If your task primarily involves running command line tools and utilities, shell scripting can be more efficient. It's easy to call and control these utilities from a shell script.
 
